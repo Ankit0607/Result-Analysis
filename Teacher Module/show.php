@@ -49,7 +49,18 @@
                                             <option>4th Year</option>
                                         </select>
                                     </td>
-                                        
+                                    
+                                    <td>
+                                         Branch<select name="bh1" class="form-control">
+                                            <option>Computer Science</option>
+                                            <option>Information Technology</option>
+                                            <option>Electrical Engineering</option>
+                                            <option>Electrical & Electronics</option>
+                                            <option>Mechanical Engineering</option>
+                                            <option>Civil Engineering</option>
+                                    </select>
+                                    </td>
+                                    
                                     <td>
                                          Branch<select name="bh1" class="form-control">
                                             <option>Computer Science</option>
