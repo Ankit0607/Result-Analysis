@@ -49,6 +49,14 @@
                                 <option>3rd Year</option>
                                 <option>4th Year</option>
                             </select>
+                             Branch<select name="bh1" class="form-control">
+                                <option>Computer Science</option>
+                                <option>Information Technology</option>
+                                <option>Electrical Engineering</option>
+                                <option>Electrical & Electronics</option>
+                                <option>Mechanical Engineering</option>
+                                <option>Civil Engineering</option>
+                            </select>
                             Semester<select name="s1" class="form-control">
                                     <option>Odd</option>
                                     <option>Even</option>
