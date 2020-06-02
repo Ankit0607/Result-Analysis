@@ -1,1 +1,4 @@
-This project is our private property. No one has any right to clone any module or code for his/her own purpose.
+Abhinav tum teacher module ke sabhi page ko databse se connect kroge.
+Aman tum HOD module ke pade se db se connect kro 
+Admin pannel main krunga 
+
